@@ -3,16 +3,16 @@ Ce script PowerShell permet de créer un utilisateur dans Active Directory via u
 
 ✨ Fonctionnalités
 Interface Windows Forms pour la saisie :
-Prénom
-Nom
-Mot de passe (masqué)
-Choix du type d'utilisateur (Admin / Collaborateur)
-Sélection de groupes Active Directory (via liste à cocher)
-Génération automatique d’un nom d’utilisateur unique
-Création de l’utilisateur dans Active Directory
-Ajout aux groupes sélectionnés
-Formatage automatique du nom (NOM) et prénom (Prénom)
-Compatibilité : Windows PowerShell avec le module ActiveDirectory
+  Prénom
+  Nom
+  Mot de passe (masqué)
+  Choix du type d'utilisateur (Admin / Collaborateur)
+  Sélection de groupes Active Directory (via liste à cocher)
+  Génération automatique d’un nom d’utilisateur unique
+  Création de l’utilisateur dans Active Directory
+  Ajout aux groupes sélectionnés
+  Formatage automatique du nom (NOM) et prénom (Prénom)
+  Compatibilité : Windows PowerShell avec le module ActiveDirectory
 
 📋 Prérequis
 Windows avec PowerShell ≥ 5.1
